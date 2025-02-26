@@ -1,0 +1,24 @@
+body {
+         font-family: Arial, sans-serif;
+         background-color: #f4f4f9;
+         color: #333;
+         text-align: center;
+         margin: 0;
+         padding: 20px;
+     }
+     h1 {
+         color: #2c3e50;
+     }
+     canvas {
+         background-color: #fff;
+         border: 1px solid #ccc;
+         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+         margin-top: 20px;
+     }
+     a {
+         color: #3498db;
+         text-decoration: none;
+     }
+     a:hover {
+         text-decoration: underline;
+     }
